@@ -3,6 +3,6 @@
 $ ruby hello.rb
 
 
-Licence 
+# License
 
 MIT
